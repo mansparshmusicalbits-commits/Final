@@ -1,0 +1,11 @@
+STEPS
+
+1.create repository at github
+2.create one text file in your local machine
+3.upload the file in your repo
+4. create one folder in any deive
+5.go to git bash
+6.go to directory where you created your folder
+7.go to folder
+8. clone your repository
+10.
